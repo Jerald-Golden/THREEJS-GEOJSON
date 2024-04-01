@@ -1,0 +1,21 @@
+        html,
+        body {
+            margin: 0;
+            padding: 0;
+        }
+
+        #my_canvas {
+            position: absolute;
+        }
+
+        .buttons {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: 99;
+        }
+
+        a {
+            padding: 5px;
+            background-color: aqua;
+        }
