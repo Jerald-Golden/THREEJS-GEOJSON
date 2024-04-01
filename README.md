@@ -1,7 +1,7 @@
 
 # 3D Globe Visualization
 
-This project creates a 3D globe visualization using Three.js, allowing users to switch between a spherical and planar view of the Earth's map. The globe is rendered using WebGL, and interactive camera control is enabled with TrackballControls.js. GeoJSON data is used to draw the map on the globe, which can be displayed as either a sphere or a flat plane.
+This project creates a 3D globe visualization using Three.js, allowing users to switch between a spherical and planar view of the Earth's map. The globe is rendered using WebGL, and interactive camera control is enabled with Orbitcontrol.
 
 # Usage
 
