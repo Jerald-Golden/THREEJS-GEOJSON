@@ -10,3 +10,6 @@ To view the 3D globe visualization, open the index.html file in a WebGL-enabled 
 # Dependencies
 Three.js (v0.160.0): https://threejs.org/
 
+# Demo
+
+You can see a live demo of this project [here](https://jerald-golden.github.io/THREEJS-GEOJSON/)
